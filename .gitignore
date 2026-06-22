@@ -1,0 +1,7 @@
+obj/
+bin/
+input.sctx
+input.png
+compile.txt
+release
+SctxDecoder

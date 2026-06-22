@@ -23,10 +23,10 @@ jobs:
                       artifact: SctxDecoder
                       output-path: release/linux-x64
 
-                    - os: macos-13
-                      rid: osx-x64
-                      artifact: SctxDecoder
-                      output-path: release/osx-x64
+                    #    - os: macos-13
+                    #      rid: osx-x64
+                    #      artifact: SctxDecoder
+                    #      output-path: release/osx-x64
 
                     - os: macos-14
                       rid: osx-arm64
